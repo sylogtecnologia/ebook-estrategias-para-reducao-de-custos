@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 25,
+    "uniqCompNum": 39,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -609,7 +609,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "06) INVISTA NA AUTOMAÇÃO DE SEUS PROCESSOS",
+          "title": "06) REALIZAR A OTIMIZAÇÃO DE ROTAS",
           "caption": "<p>Ainda que exista uma certa hesitação e repulsa pela automação de processos, é inegável que esse é um passo extremamente importante nos dias de hoje. Mão de obra humana pode ser cara, e portanto, encarece os processos da empresa como um todo. A utilização de sistemas de gestão pode tornar a logística em si muito mais ágil e econômica.<br></p><p>A aplicação dessa estratégia também possibilita uma gestão muito mais apurada e específica, já que os sistemas de gestão são capazes de fazer um resumo fático, através de números, de tudo o que está acontecendo na empresa em tempo real. \n</p><p>Automatizar é uma das melhores maneiras de promover eficiência dos processos logísticos, e é através dela que é possível produzir ainda mais, gastando menos. \n</p><p>De fato, num primeiro momento, a automação de alguns processos pode vir com gastos, mas é inegável que esse investimento traz diversos benefícios no médio e longo prazo.\n</p><p><br></p>",
           "_tags": [
             "Layout"
@@ -623,6 +623,324 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
+          "text1": "<p>&nbsp;Principalmente depois do advento da Internet e do mapeamento das rotas via satélite, é possível <b>realizar a otimização de todas as rotas realizadas por sua empresa de transportes, garantindo a maior economia de recursos possível. </b>Além de otimizar as rotas por meio da roteirização por coordenadas geográficas dos endereços de entregas, é possível também rastrear o veículo a partir da instalação de um GPS, <b>é possível monitorar o veículo e a carga em tempo real durante todo o percurso.</b></p>",
+          "text2": "<p>&nbsp;Através dessa iniciativa, é possível também ter certeza que os condutores estão dirigindo com base nas práticas que foram estabelecidas na estratégia anterior a esta, evitando os gastos excessivos, ou mesmo, analisar se os motoristas estão praticando algo que compromete a segurança da carga de alguma forma.&nbsp;<br></p><p><br></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content6",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content6-n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "30px",
+              "color": "#ff690e"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "07) REDUZA A OCIOSIDADE DOS VEÍCULOS",
+          "caption": "<p>Ainda que exista uma certa hesitação e repulsa pela automação de processos, é inegável que esse é um passo extremamente importante nos dias de hoje. Mão de obra humana pode ser cara, e portanto, encarece os processos da empresa como um todo. A utilização de sistemas de gestão pode tornar a logística em si muito mais ágil e econômica.<br></p><p>A aplicação dessa estratégia também possibilita uma gestão muito mais apurada e específica, já que os sistemas de gestão são capazes de fazer um resumo fático, através de números, de tudo o que está acontecendo na empresa em tempo real. \n</p><p>Automatizar é uma das melhores maneiras de promover eficiência dos processos logísticos, e é através dela que é possível produzir ainda mais, gastando menos. \n</p><p>De fato, num primeiro momento, a automação de alguns processos pode vir com gastos, mas é inegável que esse investimento traz diversos benefícios no médio e longo prazo.\n</p><p><br></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>&nbsp;Principalmente quando falamos em empresas de transporte de grande porte, este pode se tornar um problema e tanto. <b>Os veículos ociosos geram despesas, criam problemas, ocupam espaço e atrapalham o planejamento mensal.</b></p>",
+          "text2": "<p>&nbsp;Carros parados sempre<b> comprometerão a lucratividade da empresa</b>, portanto, é importante sempre manter o fluxo contínuo de uso dos veículos com o espaço total ou limite de peso, ocupado por cargas. É importante não descuidar disso pois a ociosidade de caminhões e carros traz apenas prejuízos de uma forma exponencial. <b>Aproveite sempre o máximo do potencial de sua frota</b> na sua empresa, <b>organizando a cadeia de distribuição </b>da forma mais ampla possível, evitando gastos e prejuízos solucionáveis.<br></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content6",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content6-q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "30px",
+              "color": "#ff690e"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "08) UTILIZE UMA CURVA ABC PARA GESTÃO",
+          "caption": "<p>Ainda que exista uma certa hesitação e repulsa pela automação de processos, é inegável que esse é um passo extremamente importante nos dias de hoje. Mão de obra humana pode ser cara, e portanto, encarece os processos da empresa como um todo. A utilização de sistemas de gestão pode tornar a logística em si muito mais ágil e econômica.<br></p><p>A aplicação dessa estratégia também possibilita uma gestão muito mais apurada e específica, já que os sistemas de gestão são capazes de fazer um resumo fático, através de números, de tudo o que está acontecendo na empresa em tempo real. \n</p><p>Automatizar é uma das melhores maneiras de promover eficiência dos processos logísticos, e é através dela que é possível produzir ainda mais, gastando menos. \n</p><p>De fato, num primeiro momento, a automação de alguns processos pode vir com gastos, mas é inegável que esse investimento traz diversos benefícios no médio e longo prazo.\n</p><p><br></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-r"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#efefef"
+          },
+          "text1": "<p>&nbsp;A Curva ABC é conhecida por analisar o que está presente na empresa em questão de serviços solicitados, a fim de priorizar os que geram maior impacto no faturamento, lucro e no giro.</p><p>\n</p><p>&nbsp;<b>O Grupo A seriam as encomendas que têm maior valor agregado, </b>o que implica em um faturamento satisfatório e maior lucro, assim como médio giro superior; <b>o Grupo B por outro lado são os produtos que não necessariamente gera tanto lucro quanto os do grupo anterior</b>, e costumam estar presentes em maior quantidade em questão de demanda; por fim, <b>o Grupo C são os itens menos presentes na prestação de serviço da empresa, </b>onde não é necessário ter tanto investimento.</p>",
+          "text2": "<p>Através de uma separação como estas, é possível criar um serviço e um sistema de gestão que conversa diretamente com a demanda e com as expectativas dos consumidores da empresa.</p><p><br></p><p>Outro ponto que esse tipo de gestão ajuda é no evitar da obsolescência e da ociosidade de investimentos.</p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content6",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content6-s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "30px",
+              "color": "#ff690e"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "09) INVISTA NOS INDICADORES DE SUCESSO - KPIs",
+          "caption": "<p>Ainda que exista uma certa hesitação e repulsa pela automação de processos, é inegável que esse é um passo extremamente importante nos dias de hoje. Mão de obra humana pode ser cara, e portanto, encarece os processos da empresa como um todo. A utilização de sistemas de gestão pode tornar a logística em si muito mais ágil e econômica.<br></p><p>A aplicação dessa estratégia também possibilita uma gestão muito mais apurada e específica, já que os sistemas de gestão são capazes de fazer um resumo fático, através de números, de tudo o que está acontecendo na empresa em tempo real. \n</p><p>Automatizar é uma das melhores maneiras de promover eficiência dos processos logísticos, e é através dela que é possível produzir ainda mais, gastando menos. \n</p><p>De fato, num primeiro momento, a automação de alguns processos pode vir com gastos, mas é inegável que esse investimento traz diversos benefícios no médio e longo prazo.\n</p><p><br></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text1": "<p>&nbsp;Sim, os Indicadores de Desempenho, ou os <b>KPIs – Key Performance Indicators </b>– são importantíssimos para a melhor gestão de sua empresa de transporte.<b> Sendo cruciais para acompanhar o crescimento, </b>desenvolvimento, ou as consequências de iniciativas, monitorar os KPIs é uma estratégia que traz benefícios interessantes tanto no <b>curto </b>quanto no<b> médio e longo prazo.</b></p><p><br></p><p>\n</p><p>&nbsp;É importante lembrar de usar os indicadores corretos para o seu contexto. Como alguns desses medidores de desempenho são voltados para empresas de compra e venda, por exemplo, é necessário procurar aqueles que <b>combinam com a atuação de sua empresa</b> – o transporte de itens.</p><p>&nbsp;Alguns dados que valem a pena estar no seu campo de visão, são:&nbsp;</p><p><b>- </b>Índice de entregas realizadas dentro do prazo;</p><p><b>-</b>&nbsp;Índice de entregas realizadas fora do prazo;</p><p><br></p>",
+          "text2": "<p><b>- </b>Índice de reagendamento de entregas;\n</p><p><b>-</b>&nbsp;Índice de devoluções e avarias;</p><p><b>-</b> O custo médio por viagem;&nbsp;<br></p><p><b>-</b> O consumo de combustível por quilômetro rodado (de preferência, separando por cada veículo, a fim de notar a redução ou aumento de produtividade);</p><p>\n</p><p><b>-</b> Índice de depreciação dos veículos;</p><p><b>- </b>Quantidade de sinistros que ocorreram;\n</p><p><b>-</b> Índice de multas para cada motorista;\n</p><p><b>-</b> Custo com manutenções preventivas e corretivas (criar uma média desse valor pode ajudar a criar um custo por serviço mais próximo da realidade).\n</p><p><br></p><p>&nbsp;É através do cálculo desses valores e o estudo desses indicadores que se possui um claro termômetro de como está funcionando a empresa, <b>o que pode ser otimizado, e o que está melhorando ou piorando.</b> Com base nos resultados, é de certa forma fácil fazer um corte ou reajuste cirúrgico em algum ponto da empresa.</p><p><br></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content6",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content6-u"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "30px",
+              "color": "#ff690e"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "10) INVESTIR NA CAPACITAÇÃO PROFISSIONAL DOS COLABORADORES",
+          "caption": "<p>Ainda que exista uma certa hesitação e repulsa pela automação de processos, é inegável que esse é um passo extremamente importante nos dias de hoje. Mão de obra humana pode ser cara, e portanto, encarece os processos da empresa como um todo. A utilização de sistemas de gestão pode tornar a logística em si muito mais ágil e econômica.<br></p><p>A aplicação dessa estratégia também possibilita uma gestão muito mais apurada e específica, já que os sistemas de gestão são capazes de fazer um resumo fático, através de números, de tudo o que está acontecendo na empresa em tempo real. \n</p><p>Automatizar é uma das melhores maneiras de promover eficiência dos processos logísticos, e é através dela que é possível produzir ainda mais, gastando menos. \n</p><p>De fato, num primeiro momento, a automação de alguns processos pode vir com gastos, mas é inegável que esse investimento traz diversos benefícios no médio e longo prazo.\n</p><p><br></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text1": "<p>&nbsp;O modo como os colaboradores de uma organização se sentem se reflete diretamente nos seus resultados. Por mais que a empresa trabalhe com ideias modernas e tenha processos bem planejados, <b>se não houver capacitação profissional de funcionários, e a equipe estiver estagnada, o negócio experimentará problemas em diferentes níveis.</b></p><p><b><br></b></p><p><b>\n</b></p><p>&nbsp;Atualmente, o potencial de entrega de resultados de uma organização não se reflete somente em seu produto, ou no mercado em que atua. <b>A capacidade crítica, de execução e a habilidade de se reinventar diariamente é fundamental para ter o principal ativo de uma empresa, que são as pessoas, prontos para os desafios.\n</b></p><p><br></p><p>&nbsp;O investimento no treinamento e na educação dos profissionais envolvidos na gestão e na logística da empresa pode ser uma forma de alcançar a maior otimização possível do empreendimento.</p><p>\n</p><p>&nbsp;</p><p>&nbsp;O mesmo vale para os colaboradores de base e de trabalho braçal. Ao investir em uma mão de obra mais capacitada, é possível ter uma prestação de serviços muito mais plena e de qualidade.\n</p><p><br></p><p><b>RETENÇÃO DE TALENTOS \n</b></p><p>&nbsp;Quando a empresa se preocupa em desenvolver as habilidades e competências de sua equipe, ela passa a ser vista mais do que como um ambiente de trabalho pelos funcionários, mas também como um local de aprendizagem e desenvolvimento.</p>",
+          "text2": "<p><b>MOTIVAÇÃO DOS FUNCIONÁRIOS</b><br></p><p>&nbsp;O sentimento de lealdade, engajamento e motivação que a capacitação é capaz de gerar nos funcionários é notável. Quando você deixa de oferecer apenas um salário e benefícios padrões e passa a proporcionar conhecimento à sua equipe, impacta na qualidade de vida dos colaboradores positivamente, despertando sua gratidão e aumentando a sinergia entre os times. Isso porque um colaborador motivado tem uma produtividade até 50% maior.</p><p><br></p><p><b>DIFERENCIAL COMPETIVO PARA EMPRESA</b></p><p>&nbsp;Como já se sabe, os efeitos da capacitação se refletem na produtividade da equipe e no seu nível de habilidades e competências. Isso significa que sua empresa passa a estar protegida da perda de qualidade e, ao mesmo tempo, mantém sua equipe sempre atualizada em relação às novas tecnologias e recursos na sua área de atuação.\n</p><p><br></p><p>&nbsp;Tudo isso deixa a sua empresa um passo à frente das concorrentes no quesito gestão, além de aumentar suas chances de se tornar referência no mercado em longo prazo.\n</p><p>\n</p><p>&nbsp;</p><p>&nbsp;Vimos aqui nesse e-book que existem diversas maneiras de reduzir os custos logísticos de um empreendimento, e que os mesmos nem sempre têm relação com o corte abrupto de etapas, diminuição da qualidade de serviços prestados ou itens associados.\n</p><p><br></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content6",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content6-w"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>CONCLUSÃO\n</b></blockquote><blockquote>Como deu para perceber na maioria de nossas dicas, o investimento em pessoas, processos, tecnologia e sistemas de logística é crucial para levar sua empresa de transportes para o lado mais econômico, eficiente e competitivo do mercado. Portanto, conte com quem melhor entende de Tecnologia para Logística – <a href=\"https://sylog.com.br/\" target=\"_blank\" class=\"text-info\">a SyLog</a>.\n</blockquote><blockquote><br></blockquote>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "30px",
+              "color": "#ff690e"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "INVISTA NA AUTOMAÇÃO DE SEUS PROCESSOS",
+          "caption": "<p>Ainda que exista uma certa hesitação e repulsa pela automação de processos, é inegável que esse é um passo extremamente importante nos dias de hoje. Mão de obra humana pode ser cara, e portanto, encarece os processos da empresa como um todo. A utilização de sistemas de gestão pode tornar a logística em si muito mais ágil e econômica.<br></p><p>A aplicação dessa estratégia também possibilita uma gestão muito mais apurada e específica, já que os sistemas de gestão são capazes de fazer um resumo fático, através de números, de tudo o que está acontecendo na empresa em tempo real. \n</p><p>Automatizar é uma das melhores maneiras de promover eficiência dos processos logísticos, e é através dela que é possível produzir ainda mais, gastando menos. \n</p><p>De fato, num primeiro momento, a automação de alguns processos pode vir com gastos, mas é inegável que esse investimento traz diversos benefícios no médio e longo prazo.\n</p><p><br></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-y"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
           "text1": "<p>Ainda que exista uma certa hesitação e repulsa pela automação de processos, é inegável que esse é um passo extremamente importante nos dias de hoje. Mão de obra humana pode ser cara, e portanto, encarece os processos da empresa como um todo. A utilização de sistemas de gestão pode tornar a logística em si muito mais ágil e econômica.</p><p><br></p><p>\n</p><p>\n</p><p>A aplicação dessa estratégia também possibilita uma gestão muito mais apurada e específica, já que os sistemas de gestão são capazes de fazer um resumo fático, através de números, de tudo o que está acontecendo na empresa em tempo real.</p>",
           "text2": "<p>Automatizar é uma das melhores maneiras de promover eficiência dos processos logísticos, e é através dela que é possível produzir ainda mais, gastando menos.<br></p><p><br></p><p>\n</p><p>\n</p><p>De fato, num primeiro momento, a automação de alguns processos pode vir com gastos, mas é inegável que esse investimento traz diversos benefícios no médio e longo prazo.\n</p><p>\n</p><p><br></p>",
           "_tags": [
@@ -635,7 +953,159 @@
               "font-size": "20px"
             }
           },
-          "_anchor": "content6-n"
+          "_anchor": "content6-z"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/capa-quem-somos-2000x1069.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "QUEM SOMOS ?",
+          "text": "Fundada em 2005, a SyLog® possui norral em desenvolvimento de softwares para a gestão integrada, e é especializada no segmento de Logística e Transportes, proporcionando para você e para a sua empresa, soluções tecnológicas em gestão para apoiar as empresas no crescimento, com a agilidade dos processos, eficiência, qualidade, visão transparente do negócio, controle, economia com automatização de processos e segurança, construindo uma parceria de crescimento e garantindo melhores resultados.\n<br>Conte com a empresa que consegue trazer ao seu empreendimento o monitoramento de informações em tempo real que tanto precisa. Tenha acesso a profissionais altamente capacitados na área de desenvolvimento, análise, consultoria e suporte.\n<br>Aguardamos o seu contato desde já para que juntos, tornemos o seu empreendimento a melhor versão que ele pode ser.\n<br>Um grande abraço e até mais!&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-11",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#ffffff",
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design</a></li><li><a class=\"text-primary\" href=\"#\">Real life</a></li><li><a class=\"text-primary\" href=\"#\">Science</a></li><li><a class=\"text-primary\" href=\"#\">Tech</a></li>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR MENSAGEM</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-novo-sylog-fundo-transparente-265x101.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Categories",
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text3": "1234 Street Name, City AA 99999",
+          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ricardobrandao4111@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_name": "contacts5",
+          "_anchor": "contacts5-12"
         }
       ]
     }

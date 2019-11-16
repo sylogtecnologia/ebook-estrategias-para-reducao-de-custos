@@ -640,3 +640,111 @@ section.form .container {
   text-align: left;
   font-size: 20px;
 }
+#content5-p .mbr-section-title,
+#content5-p .lead {
+  color: #fff;
+}
+#content5-p .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ff690e;
+}
+#content5-p .lead P {
+  font-size: 20px;
+  color: #000000;
+}
+#content6-q .lead P {
+  text-align: left;
+  font-size: 20px;
+}
+#content5-r .mbr-section-title,
+#content5-r .lead {
+  color: #fff;
+}
+#content5-r .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ff690e;
+}
+#content5-r .lead P {
+  font-size: 20px;
+  color: #000000;
+}
+#content6-s .lead P {
+  text-align: left;
+  font-size: 20px;
+}
+#content5-t .mbr-section-title,
+#content5-t .lead {
+  color: #fff;
+}
+#content5-t .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ff690e;
+}
+#content5-t .lead P {
+  font-size: 20px;
+  color: #000000;
+}
+#content6-u .lead P {
+  text-align: left;
+  font-size: 20px;
+}
+#content5-v .mbr-section-title,
+#content5-v .lead {
+  color: #fff;
+}
+#content5-v .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ff690e;
+}
+#content5-v .lead P {
+  font-size: 20px;
+  color: #000000;
+}
+#content6-w .lead P {
+  text-align: left;
+  font-size: 20px;
+}
+#content5-y .mbr-section-title,
+#content5-y .lead {
+  color: #fff;
+}
+#content5-y .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ff690e;
+}
+#content5-y .lead P {
+  font-size: 20px;
+  color: #000000;
+}
+#content6-z .lead P {
+  text-align: left;
+  font-size: 20px;
+}
+#header1-11 .mbr-section-lead {
+  color: #ffffff;
+  font-size: 24px;
+}
+#contacts5-12 p,
+#contacts5-12 .list-group-text,
+#contacts5-12 .form-control-label {
+  color: #000;
+}
+#contacts5-12 strong,
+#contacts5-12 h4 {
+  color: #7e9b9f;
+}
+#contacts5-12 form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-12 .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-12 .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
