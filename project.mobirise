@@ -9,7 +9,7 @@
         "primaryColor": "#c0a375",
         "secondaryColor": "#ffffff",
         "successColor": "#90a878",
-        "infoColor": "#1a0648",
+        "infoColor": "#2969b0",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
@@ -65,7 +65,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "<br>ESTRATÉGIAS PARA REDUÇÃO DE CUSTOS EM TRANSPORTADORAS<br><br>",
+          "title": "<br>10 ESTRATÉGIAS PARA REDUÇÃO DE CUSTOS EM TRANSPORTADORAS<br><br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
           "_tags": [
@@ -75,7 +75,8 @@
           "_anchor": "header1-0",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "72px"
             }
           }
         },
@@ -84,7 +85,8 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "36px",
+              "text-align": "center"
             },
             ".mbr-section-text": {
               "color": "#ffffff",
@@ -96,7 +98,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "showArrow": true,
             "imageSize": "20",
             "bgImageRadio": false,
@@ -132,12 +134,12 @@
               "name": "target",
               "family": "MobiriseIcons",
               "link": "",
-              "size": "280",
+              "size": "180",
               "active": true
             }
           },
           "title": "IDENTIFICANDO OS CUSTOS LOGÍSTICOS",
-          "text": "&nbsp; A logística é uma parte vital para a sobrevivência de um empreendimento. Trabalhando em favor do negócio, todos os passos vinculados à mesma devem ser sempre bem planejados e executados de forma controlada e inteligente. Práticas que implicam em investimentos maiores ou menores devem sempre passar pelo crivo da gestão organizacional. Isso faz com que, de forma centralizada, exista um maior conhecimento sobre o que está se passando no empreendimento, evitando desencontros e falhas de comunicação. <br><br>&nbsp; O primeiro passo para aplicar as estratégias de redução de custos em transportadoras é conhecer os custos envolvidos na operação. Medir os mesmos e possuir índices é essencial para que se compreenda o funcionamento da empresa como um todo.\n<br><br>&nbsp; Conhecer os gastos exerce uma grande ajuda na tomada de decisões, e você poderá ver mais abaixo, que com esse passo, é muito mais fácil fazer a aplicação das estratégias que explicamos aqui!&nbsp;<br>",
+          "text": "&nbsp; A logística é uma parte vital para a sobrevivência de um empreendimento. Trabalhando em favor do negócio, todos os passos vinculados à mesma devem ser sempre bem planejados e executados de forma controlada e inteligente. <b>Práticas que implicam em investimentos maiores ou menores devem sempre passar pelo crivo da gestão organizacional. </b>Isso faz com que, de forma centralizada, exista um maior <b>conhecimento </b>sobre o que está se passando no empreendimento, evitando desencontros e falhas de comunicação. <br><br>&nbsp; O primeiro passo para aplicar as estratégias de redução de custos em transportadoras é <b>conhecer os custos envolvidos na operação.</b> Medir os mesmos e possuir índices é essencial para que se compreenda o funcionamento da empresa como um todo.\n<br><br>&nbsp; <b>Conhecer os custos da sua empresa exerce uma grande ajuda na tomada de decisões,</b> e você poderá ver mais abaixo, que com esse passo, será mais fácil fazer a aplicação das estratégias que explicaremos a seguir:&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Layout"
@@ -151,7 +153,8 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -314,7 +317,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>&nbsp;Ainda que exista uma certa hesitação e repulsa pela automação de processos, é inegável que esse é um passo extremamente importante nos dias de hoje. Mão de obra humana pode ser cara, e portanto, encarece os processos da empresa como um todo. A <b>utilização de sistemas</b> de gestão pode tornar a logística em si muito mais ágil e econômica.</p><p><br></p><p>\n</p><p>\n</p><p>&nbsp;A aplicação dessa estratégia também <b>possibilita uma gestão mais apurada</b> <b>e específica</b>, já que os sistemas de gestão são capazes de fazer um resumo fático, através de números, de tudo o que está acontecendo na empresa em tempo real.</p>",
+          "text1": "<p>&nbsp;Ainda que exista uma certa hesitação e repulsa pela automação de processos, é inegável que esse é um passo extremamente importante nos dias de hoje. Mão de obra humana pode ser cara, e portanto, encarece os processos da empresa como um todo. A <b><a href=\"https://sylog.com.br\" target=\"_blank\" class=\"text-info\">utilização de sistemas</a></b> de gestão pode tornar a logística em si muito mais ágil e econômica.</p><p><br></p><p>\n</p><p>\n</p><p>&nbsp;A aplicação dessa estratégia também <b>possibilita uma gestão mais apurada</b> <b>e específica</b>, já que os sistemas de gestão são capazes de fazer um resumo fático, através de números, de tudo o que está acontecendo na empresa em tempo real.</p>",
           "text2": "<p>&nbsp;Automatizar é uma das melhores maneiras de <b>promover eficiência dos processos logísticos</b>, é através da automatização que se torna possível produzir ainda mais, gastando menos.<br></p><p><br></p><p>\n</p><p>\n</p><p>&nbsp;De fato, num primeiro momento, a automação de alguns processos pode vir com gastos, mas é inegável que esse investimento traz diversos benefícios no médio e longo prazo.\n</p><p>\n</p><p><br></p>",
           "_tags": [
             "Layout"
@@ -559,7 +562,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>&nbsp;Veículos podem estar consumindo mais combustível e estar funcionando com pouca eficiência. É necessário, portanto, ficar de olho nesse tipo de índice, a fim de ter certeza que a sua frota de veículos está funcionando a todo vapor. Conte também com um software Fms-Frotas para gerir corretamente a manutenção dos seus veículos</p><p>.\n</p><p>Além disso, também existem os hábitos de motoristas que podem diminuir a performance do veículo. Para evitar e educar os colaboradores a não incidir em erros, crie uma planilha ou uma cartilha para conscientização, como:</p><p><br></p>",
+          "text1": "<p>&nbsp;Veículos podem estar consumindo mais combustível e estar funcionando com pouca eficiência. É necessário, portanto, ficar de olho nesse tipo de índice, a fim de ter certeza que a sua frota de veículos está funcionando a todo vapor. Conte também com um <a href=\"https://sylog.com.br/fms-frota.html\" target=\"_blank\" class=\"text-info\">software Fms-Frotas</a> para gerir corretamente a manutenção dos seus veículos</p><p>.\n</p><p>Além disso, também existem os hábitos de motoristas que podem diminuir a performance do veículo. Para evitar e educar os colaboradores a não incidir em erros, crie uma planilha ou uma cartilha para conscientização, como:</p><p><br></p>",
           "text2": "<p><b>- </b>Não pisar muito fundo no momento da arrancada;<br></p><p><b>- </b>Não trafegar com os pneus descalibrados ou mesmo murchos;\n</p><p><b>- </b>Realizar a troca de óleo do veículo dentro período correto;\n</p><p><b>-</b> Não usar combustíveis de baixa qualidade, ou mesmo misturar combustíveis;\n</p><p><b>-</b> Não passar do limite de peso que o veículo pode transportar, entre outros...</p><p><br></p><p>\n</p><p>\n</p><p>Associando o acompanhamento da produtividade e custos dos veículos, e ainda, procurando conversar com seus colaboradores a fim de evitar as condutas acima descritas, é possível criar uma frota muito mais produtiva e eficiente!\n</p><p><br></p>",
           "_tags": [
             "Layout"
@@ -597,7 +600,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1920.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#0e012b",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -618,7 +621,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p>Ainda que exista uma certa hesitação e repulsa pela automação de processos, é inegável que esse é um passo extremamente importante nos dias de hoje. Mão de obra humana pode ser cara, e portanto, encarece os processos da empresa como um todo. A utilização de sistemas de gestão pode tornar a logística em si muito mais ágil e econômica.</p><p><br></p><p>\n</p><p>\n</p><p>A aplicação dessa estratégia também possibilita uma gestão muito mais apurada e específica, já que os sistemas de gestão são capazes de fazer um resumo fático, através de números, de tudo o que está acontecendo na empresa em tempo real.</p>",
           "text2": "<p>Automatizar é uma das melhores maneiras de promover eficiência dos processos logísticos, e é através dela que é possível produzir ainda mais, gastando menos.<br></p><p><br></p><p>\n</p><p>\n</p><p>De fato, num primeiro momento, a automação de alguns processos pode vir com gastos, mas é inegável que esse investimento traz diversos benefícios no médio e longo prazo.\n</p><p>\n</p><p><br></p>",
