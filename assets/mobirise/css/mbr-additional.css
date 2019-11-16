@@ -459,6 +459,7 @@ section.form .container {
 }
 #header6-8 .mbr-section-title {
   color: #ffffff;
+  font-size: 36px;
 }
 #header6-8 .mbr-section-text {
   color: #ffffff;
@@ -564,6 +565,75 @@ section.form .container {
   color: #000000;
 }
 #content6-f .lead P {
+  text-align: left;
+  font-size: 20px;
+  color: #000000;
+}
+#content5-g .mbr-section-title,
+#content5-g .lead {
+  color: #fff;
+}
+#content5-g .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ff690e;
+}
+#content5-g .lead P {
+  font-size: 20px;
+  color: #000000;
+}
+#content6-h .lead P {
+  text-align: left;
+  font-size: 20px;
+}
+#content5-i .mbr-section-title,
+#content5-i .lead {
+  color: #fff;
+}
+#content5-i .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ff690e;
+}
+#content5-i .lead P {
+  font-size: 20px;
+  color: #000000;
+}
+#content6-j .lead P {
+  text-align: left;
+  font-size: 20px;
+}
+#content5-k .mbr-section-title,
+#content5-k .lead {
+  color: #fff;
+}
+#content5-k .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ff690e;
+}
+#content5-k .lead P {
+  font-size: 20px;
+  color: #000000;
+}
+#content6-l .lead P {
+  text-align: left;
+  font-size: 20px;
+}
+#content5-m .mbr-section-title,
+#content5-m .lead {
+  color: #fff;
+}
+#content5-m .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ff690e;
+}
+#content5-m .lead P {
+  font-size: 20px;
+  color: #000000;
+}
+#content6-n .lead P {
   text-align: left;
   font-size: 20px;
 }
